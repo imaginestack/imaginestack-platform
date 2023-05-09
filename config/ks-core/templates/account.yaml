@@ -1,0 +1,13 @@
+---
+apiVersion: iam.imaginekube.com/v1alpha2
+kind: User
+metadata:
+  name: admin
+  annotations:
+    iam.imaginekube.com/uninitialized: "true"
+    helm.sh/resource-policy: keep
+spec:
+  email: admin@imaginekube.com
+  password: {{ include "getOrDefaultPass" . | quote }}
+status:
+  state: Active

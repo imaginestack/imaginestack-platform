@@ -1,0 +1,14 @@
+approvers:
+    - zheng1
+    - wansir
+    - zryfish
+
+reviewers:
+    - zheng1
+    - wansir
+    - zryfish
+    - xyz-li
+
+labels:
+    - area/api
+    - area/app-management
