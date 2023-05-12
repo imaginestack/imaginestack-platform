@@ -11,7 +11,7 @@
  Imagine Kube Platform
 </h2>
 
-[ImagineKube](https://imaginekube.com/) is a **distributed operating system for cloud-native application management**, using [Kubernetes](https://kubernetes.io) as its kernel. It provides a plug-and-play architecture, allowing third-party applications to be seamlessly integrated into its ecosystem. ImagineKube is also a multi-tenant container platform with full-stack automated IT operation and streamlined DevOps workflows. It provides developer-friendly wizard web UI, helping enterprises to build out a more robust and feature-rich platform, which includes most common functionalities needed for enterprise Kubernetes strategy, see [Feature List](#features) for details.
+[Imagine Kube](https://imaginekube.com/) is a **distributed operating system for cloud-native application management**, using [Kubernetes](https://kubernetes.io) as its kernel. It provides a plug-and-play architecture, allowing third-party applications to be seamlessly integrated into its ecosystem. ImagineKube is also a multi-tenant container platform with full-stack automated IT operation and streamlined DevOps workflows. It provides developer-friendly wizard web UI, helping enterprises to build out a more robust and feature-rich platform, which includes most common functionalities needed for enterprise Kubernetes strategy, see [Feature List](#features) for details.
 
 
 Demo environment
