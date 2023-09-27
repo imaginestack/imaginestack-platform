@@ -37,7 +37,7 @@ ImagineKube isn't just a platform; it's a promise of excellence. Whether you're 
 Ready to explore a cloud-native universe filled with endless possibilities? [Embark on your ImagineKube journey today](https://imaginekube.com/) and discover the future of cloud-native innovation.
 
   <summary><b>🗃 Support Multiple Storage and Networking Solutions</b></summary>
-  <li>Support GlusterFS, CephRBD, NFS, LocalPV solutions, and provide CSI plugins to consume storage from multiple cloud providers.</li><li>Provide Load Balancer Implementation <a href="https://github.com/imaginekube/openelb">Open
+  <li>Support GlusterFS, CephRBD, NFS, LocalPV solutions, and provide CSI plugins to consume storage from multiple cloud providers.</li><li>Provide Load Balancer Implementation <a href="https://github.com/imaginekube/openelb">OpenELB</li>
 ### Repository Structure
 
 Discover the symphony of tools and directories within ImagineKube's repository structure, each designed to orchestrate cloud-native excellence:
