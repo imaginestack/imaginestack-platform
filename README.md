@@ -1,57 +1,40 @@
 <p align="center">
-<a href="https://imaginekube.com/"><img src="docs/images/logo-128.png" alt="banner" width="200px"></a>
+  <img src="https://imaginekube.com/images/imaginekube-logo.png" alt="ImagineKube Logo" width="200">
 </p>
-
 <p align="center">
-<b>The container platform tailored for <i>Kubernetes multi-cloud, datacenter, and edge</i> management</b>
+  <b>ImagineKube:</b><br>
+  <i>Unlock a World of Possibilities in Cloud-Native Excellence</i>
 </p>
 
-----
-<h2 align="center">
- Imagine Kube Platform
-</h2>
+<h2 align="center">ImagineKube Platform</h2>
 
-[Imagine Kube](https://imaginekube.com/) is a **distributed operating system for cloud-native application management**, using [Kubernetes](https://kubernetes.io) as its kernel. It provides a plug-and-play architecture, allowing third-party applications to be seamlessly integrated into its ecosystem. ImagineKube is also a multi-tenant container platform with full-stack automated IT operation and streamlined DevOps workflows. It provides developer-friendly wizard web UI, helping enterprises to build out a more robust and feature-rich platform, which includes most common functionalities needed for enterprise Kubernetes strategy, see [Feature List](#features) for details.
+[ImagineKube](https://imaginekube.com/) is your key to a cloud-native future without limits. Think of it as the ultimate enabler, a transformative force in the world of Kubernetes, and a guardian of your cloud-native aspirations.
 
+### The ImagineKube Advantage
 
-Demo environment
+ImagineKube redefines what's possible in cloud-native management:
 
- ImagineKube provides you with free, stable, and out-of-the-box managed cluster service. After registration and login, you can easily create a K3s cluster with ImagineKube installed in only 5 seconds and experience feature-rich ImagineKube.
+**🌐 Multi-Cloud Marvel:** Navigate the multi-cloud landscape with grace. ImagineKube provides a single, unified platform to master the art of multi-cloud deployments, enabling you to harness the full power of cloud diversity.
 
+**🚀 Seamless Integration:** Say goodbye to integration headaches. ImagineKube's plug-and-play architecture effortlessly welcomes third-party applications into its ecosystem, unleashing endless possibilities.
 
-Features
-<details>
-  <summary><b>🕸 Provisioning Kubernetes Cluster</b></summary>
-  Support deploy Kubernetes on any infrastructure, support online and air-gapped installation. <a href="https://imaginekube.com/docs/installing-on-linux/introduction/intro/">Learn more</a>.
-  </details>
-<details>
-  <summary><b>🔗 Kubernetes Multi-cluster Management</b></summary>
-  Provide a centralized control plane to manage multiple Kubernetes clusters, and support the ability to propagate an app to multiple K8s clusters across different cloud providers.
-  </details>
-<details>
-  <summary><b>🤖 Kubernetes DevOps</b></summary>
-  Provide GitOps-based CD solutions and use Argo CD to provide the underlying support, collecting CD status information in real time. With the mainstream CI engine Jenkins integrated, DevOps has never been easier. <a href="https://imaginekube.com/devops/">Learn more</a>.
-  </details>
-<details>
-  <summary><b>🔎 Cloud Native Observability</b></summary>
-  Multi-dimensional monitoring, events and auditing logs are supported; multi-tenant log query and collection, alerting and notification are built-in. <a href="https://imaginekube.com/observability/">Learn more</a>.
-  </details>
-<details>
-  <summary><b>🧩 Service Mesh (Istio-based)</b></summary>
-  Provide fine-grained traffic management, observability and tracing for distributed microservice applications, provides visualization for traffic topology. <a href="https://imaginekube.com/service-mesh/">Learn more</a>.
-  </details>
-<details>
-  <summary><b>💻 App Store</b></summary>
-  Provide an App Store for Helm-based applications, and offer application lifecycle management on Kubernetes platform. <a href="https://imaginekube.com/docs/pluggable-components/app-store/">Learn more</a>.
-  </details>
-<details>
-  <summary><b>💡 Edge Computing Platform</b></summary>
-  ImagineKube integrates <a href="https://kubeedge.io/en/">KubeEdge</a> to enable users to deploy applications on the edge devices and view logs and monitoring metrics of them on the console. <a href="https://imaginekube.com/docs/pluggable-components/kubeedge/">Learn more</a>.
-  </details>
-<details>
-  <summary><b>📊 Metering and Billing</b></summary>
-  Track resource consumption at different levels on a unified dashboard, which helps you make better-informed decisions on planning and reduce the cost. <a href="https://imaginekube.com/docs/toolbox/metering-and-billing/view-resource-consumption/">Learn more</a>.
-  </details>
-<details>
+**🤖 DevOps Revolution:** DevOps has never been this agile. Experience the future of deployments with GitOps-based Continuous Delivery, powered by Argo CD and Jenkins. Witness real-time CD status monitoring at your fingertips.
+
+**🌟 Observability Elevated:** Elevate your observability game with multi-dimensional monitoring, event tracking, and auditing logs. You're in control, always.
+
+**🕸 Edge Computing Pioneering:** ImagineKube pushes the boundaries of edge computing with seamless [KubeEdge](https://kubeedge.io/en/) integration. Deploy applications at the edge, view logs, and monitor metrics from anywhere.
+
+**📦 App Store Innovation:** The ImagineKube App Store, a treasure trove of Helm-based applications, simplifies your application lifecycle management on Kubernetes. Your next big idea is just a click away.
+
+**📊 Cost-Savings & Insights:** ImagineKube empowers you with insights to make data-driven decisions. Track resource consumption across different levels and optimize resources effortlessly.
+
+### Elevate Your Enterprise
+
+ImagineKube isn't just a platform; it's a promise of excellence. Whether you're a developer seeking efficiency, an enterprise ready to conquer the cloud, or a visionary exploring the edge - ImagineKube is your partner in making the extraordinary a reality.
+
+### Join the Cloud-Native Revolution
+
+Ready to explore a cloud-native universe filled with endless possibilities? [Embark on your ImagineKube journey today](https://imaginekube.com/) and discover the future of cloud-native innovation.
+
   <summary><b>🗃 Support Multiple Storage and Networking Solutions</b></summary>
   <li>Support GlusterFS, CephRBD, NFS, LocalPV solutions, and provide CSI plugins to consume storage from multiple cloud providers.</li><li>Provide Load Balancer Implementation <a href="https://github.com/imaginekube/openelb">Open
