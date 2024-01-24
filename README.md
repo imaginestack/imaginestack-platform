@@ -6,7 +6,7 @@
 
 </div>
 
-<h2 align="center">ImagineKube Platform</h2>
+<h2 align="center">Imagine Platform</h2>
 
 ### Elevate Your Enterprise
 
